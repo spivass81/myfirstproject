@@ -5,6 +5,7 @@ This is my first repository in **Git**! **Cool** stuff!
 
 - avocado
 - onion
+- tomatoes
 - salt and pepper
 
 Put into a bowl and mix
