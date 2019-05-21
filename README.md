@@ -9,7 +9,12 @@ This is my first repository in **Git**! **Cool** stuff!
 - salt and pepper
 - plus more
 
-Put into a bowl and mix
+##Instructions
+
+- chop onion and tomatoes
+cut open avocado and remove stone
+- scoop out fles
+- Put into a bowl and mix withh tomatoes and onions
 
 
 - you can add bullets
