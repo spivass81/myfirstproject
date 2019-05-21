@@ -18,12 +18,13 @@ Put into a bowl and mix
       - and so on... and so on...
 - [and links](https://bio-it.embl.de)
 - *italics*
+- ~strike through~ 
 
 
-'Code can be highligted with baclticks'
+`Code can be highligted with baclticks`
 
-'''Python
+```Python
 for file in filenames:
  print(file)
-'''
+```
 
