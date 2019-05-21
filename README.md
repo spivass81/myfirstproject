@@ -7,6 +7,7 @@ This is my first repository in **Git**! **Cool** stuff!
 - onion
 - tomatoes
 - salt and pepper
+- plus more
 
 Put into a bowl and mix
 
