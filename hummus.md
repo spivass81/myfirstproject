@@ -3,4 +3,5 @@
 - Chickpeas
 - Tahini
 - Olive oil
-
+- Paprika powder
+- Lemon!!!
