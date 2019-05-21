@@ -1,6 +1,15 @@
 # A recipe for...
 This is my first repository in **Git**! **Cool** stuff!
 
+##Recipe for guacomole
+
+- avocado
+- onion
+- salt and pepper
+
+Put into a bowl and mix
+
+
 - you can add bullets
   - and sub bullets
     - and sub sub bullets 
