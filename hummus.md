@@ -1,9 +1,9 @@
-#Recipe for hummus tasty!!
+##### Recipe for tasty hummus!!
 
 - Chickpeas
 - Tahini
 - Olive oil
 - Paprika powder
 - Lemon!!!
-- more ingridients
+- More ingrediens
 
