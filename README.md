@@ -1,2 +1,2 @@
-# myfirstproject
-This is my first repository in git! 
+# A recipe for...
+This is my first repository in **Git**! **Cool** stuff!
